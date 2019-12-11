@@ -1,0 +1,44 @@
+body, html {
+    margin: 0;
+    /* align-self: center; */
+    font-family: sans-serif;
+}
+
+.content {
+    /* align-self: center; */
+    margin: 0 auto;
+    width: 400px;
+}
+
+table, td, th {
+    border: 1px solid grey;
+}
+
+table {
+    /* align-items: center; */
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    /* align-content: center; */
+    height: 30px;
+}
+
+td {
+    text-align: center;
+    padding: 5px;
+}
+
+.form {
+    /* align-self: center; */
+    /* align-items: center; */
+    margin-top: 20px;
+}
+
+#content {
+    /* align-self: center; */
+    /* text-align: center; */
+    /* align-items: center; */
+    width: 70%;
+}
